@@ -14,7 +14,7 @@ function Simplify(n) {
   }
   return sum;
 }
-var n = 97;
+var n = 98;
 var res = Simplify(n);
 var test1 = false;
 test1 = (res == 7);
